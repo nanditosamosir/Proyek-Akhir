@@ -1,6 +1,6 @@
 # Bike Sharing Dashboard
 
-## Setup environtment
+## Setup environment
 
 conda create --name main-ds python=3.12
 
